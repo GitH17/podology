@@ -21,7 +21,7 @@
       </set>
       <set id="Medicinskiy-pedicur">
         <name>Медицинский педикюр</name>
- <url>https://podologroom.ru/medicinskiy-pedikyur/url>
+ <url>https://podologroom.ru/medicinskiy-pedikyur/</url>
       </set>
       <set id="Apparatny-pedicur">
         <name>Аппаратный педикюр</name>
@@ -59,7 +59,7 @@
         <param name="Работа по договору"></param>
         <param name="Наличный расчет">да</param>
         <param name="Безналичный расчет">да</param>
-      
+     
       
       </offer>
     </offers>
